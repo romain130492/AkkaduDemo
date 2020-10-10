@@ -7,7 +7,8 @@
 
 <script>
 /* eslint-disable */
- const Akkadu = () => import('../src/agora-rtc-mock') 
+/*  const Akkadu = () => import('../src/agora-rtc-mock')  */
+  const Akkadu = () => import('@akkadu/akkadu-rtc') 
 import HelloWorld from './components/HelloWorld.vue'
 
 export default {

@@ -11,7 +11,7 @@
     "@akkadu/logger" "^2.1.0"
     validate.js "^0.13.1"
 
-"@akkadu/akkadu-rtc@^2.0.2":
+"@akkadu/akkadu-rtc@^2.6.0":
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/@akkadu/akkadu-rtc/-/akkadu-rtc-2.6.0.tgz#b0432a1fc8f19f347735278a5e07d5bd56a15014"
   integrity sha512-7IWjpMJYC/sPp70Pn6Dlgkoo2tvb3Z9y6JajThfl9+QWW/HKJeGaYEdkDpiL2RvmlhkS88oURvh64K056zFKuQ==
